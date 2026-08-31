@@ -44,6 +44,7 @@ DIVIDE(
     [Total Sales], 
     0
 )
+
 📱 Task 2: Social Media Ad Campaign Analytics Dashboard
 📌 Overview
 A digital marketing intelligence dashboard designed to measure paid media efficiency, audience reach, conversion funnels, and Return on Ad Spend (ROAS) across social advertising channels.
@@ -76,6 +77,7 @@ DIVIDE(
     SUM('Ad_Performance'[Spend]), 
     0
 )
+
 🎓 Task 3: Student Feedback & Academic Performance Dashboard
 📌 Overview
 An institutional performance dashboard built to analyze student satisfaction scores, faculty evaluation ratings, syllabus clarity, and campus resource feedback across departments.
